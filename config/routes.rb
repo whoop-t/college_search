@@ -6,4 +6,6 @@ Rails.application.routes.draw do
       get 'college-search', to: 'searches#college_search'
     end
   end
+
+  get '*path' => redirect('/')
 end
