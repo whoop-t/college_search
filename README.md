@@ -8,6 +8,9 @@ Featues:
 * GoogleMapsApi, Collegescorecard api
 * Rails for api, React for FE
 
+Visit Deployed Site:
+[VIEW APP HERE](https://tommy-college-search.herokuapp.com/)
+
 Build locally:
 * Fork/Clone
 * Bundle/NPM install as needed
